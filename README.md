@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hello, I am Harish Patil
+Lead Machine learning Engineer with focus on DeepLearning, NLP, LLMs, RAG and Agents.
 
 <!--
 **Harish2093/Harish2093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
