@@ -1,5 +1,5 @@
 ## 👋 Hello, I am Harish Patil
-Lead Machine learning Engineer with focus on DeepLearning, NLP, LLMs, RAG and Agents.
+Lead Machine learning Engineer with focus on DeepLearning, NLP, LLMs, RAG and Agents.  
 M.Tech in Mathematical modeling and simulation, Pune university.
 
 <!--
