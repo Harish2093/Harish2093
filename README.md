@@ -1,6 +1,7 @@
 ## 👋 Hello, I am Harish Patil
 * Lead Machine learning Engineer with focus on DeepLearning, NLP, LLMs, RAG and Agents.  
 * M.Tech in Mathematical modeling and simulation, Pune university.
+* Checkout this streamlit application for some cool stuff hlink[https://appapp-harishchatbot.streamlit.app/]
 
 <!--
 **Harish2093/Harish2093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
